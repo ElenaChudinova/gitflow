@@ -1,4 +1,8 @@
 def user_upper():
-    '''docsrting'''
+    '''docsring'''
     # Все заглавные буквы в строке
     return input().upper()
+
+def user_title():
+    '''Добавляю докстринг'''
+    return input().title
